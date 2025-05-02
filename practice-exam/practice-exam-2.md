@@ -338,7 +338,7 @@ layout: exam
     - E. Dedicated hosting.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, C
+      Correct answer: C, D
     </details>
 
 34. Which of the following aspects of security are managed by AWS? (Choose TWO)
