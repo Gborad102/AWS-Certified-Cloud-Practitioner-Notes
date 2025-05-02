@@ -440,7 +440,7 @@ layout: exam
     - D. Filtering traffic with Security Groups.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: C
     </details>
 
 44. What does the AWS Health Dashboard provide? (Choose TWO)
