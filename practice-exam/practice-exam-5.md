@@ -42,7 +42,7 @@ layout: exam
     - D. 3 hours for the Linux instance and 4 hours, 23 minutes and 7 seconds for the CentOS instance.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: A
 
       Explanation:
       - Pricing is per instance-hour consumed for each instance, from the time an instance is launched until it is terminated or stopped.
